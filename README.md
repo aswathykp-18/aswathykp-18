@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathykp-18&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathykp-18&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswathykp-18&layout=compact&theme=dark&hide_border=true)
 
 ---
